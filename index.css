@@ -1,0 +1,53 @@
+body {
+    margin: 0;
+    background-color: #1B244A;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.teller{
+    text-align: center;
+    color: #F94F6D;
+    background-color: #080001;
+    font-family: 'Cursed Timer ULiL', sans-serif;
+    font-size: 90px;
+    border: 10px solid;
+    border-color: black;
+    border-radius: 5px;
+}
+
+#teller_knapp{
+    font-family: 'Cursed Timer ULiL', sans-serif;
+    color: #9AABD8;
+    border: 2px #9AABD8 solid;
+    border-radius: 5px;
+    background-color: #1B244A;
+    padding: 8px;
+    margin-top: 30px;
+    margin-left: 9px;
+    font-size: 15px;
+}
+
+h3{
+    color: #EEEEEE;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    font-size: 40px;
+}
+
+div{
+    text-align: center;
+}
+
+#timer{
+    font-family: 'Cursed Timer ULiL', sans-serif;
+    color: #F94F6D;
+    border: 2px #9AABD8 solid;
+    border-radius: 5px;
+    background-color: #1B244A;
+    padding: 8px;
+    font-size: 30px;
+}
